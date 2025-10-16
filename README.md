@@ -59,7 +59,7 @@ Other Tools: Python-dotenv, PDF librariesInstallation
 INSTALLATION
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/Sankalp.git
+git clone https://github.com/Noel-02/Sankalp-App.git
 cd Sankalp
 
 2. Create a virtual environment (Python backend):
