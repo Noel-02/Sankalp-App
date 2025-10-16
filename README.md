@@ -23,7 +23,7 @@ Generates structured complaints ready for submission to authorities.
 
 Users can interact in Malayalam or English, including voice input.
 
-5. Admin Functionalities
+ 5. Admin Functionalities
 
 Upload new scheme PDFs.
 Track certificate applications in real time.
